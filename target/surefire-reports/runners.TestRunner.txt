@@ -1,0 +1,13 @@
+-------------------------------------------------------------------------------
+Test set: runners.TestRunner
+-------------------------------------------------------------------------------
+Tests run: 9, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 18.685 s - in runners.TestRunner
+testUsuarios[1][1]  Time elapsed: 2.931 s
+testUsuarios[1][2]  Time elapsed: 1.741 s
+testUsuarios[2][1]  Time elapsed: 2.465 s
+testUsuarios[2][2]  Time elapsed: 1.028 s
+testUsuarios[3][1]  Time elapsed: 1.558 s
+testUsuarios[3][2]  Time elapsed: 0.801 s
+testUsuarios[4][1]  Time elapsed: 2.444 s
+testUsuarios[4][2]  Time elapsed: 0.94 s
+testUsuarios[5][1]  Time elapsed: 4.062 s
